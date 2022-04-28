@@ -1,4 +1,5 @@
-### Hey there 👋, Kōdosamurai at your service :mount_fuji: :computer:
+## Hey there 👋, Kōdosamurai at your service :mount_fuji: :computer:
+
 
 <!--
 **saamirhye/saamirhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me:
-  - You can reach me through the website provided on the left hand side of this intro or through my LinkedIn (you can use the links below)
+  - You can reach me through the website provided on the left hand side of this intro or through my LinkedIn (if you're on mobile you can use the links below)
     - Visit my portfolio @ [saamirhye.com](https://www.saamirhye.com) and shoot me an email through the contact page
     - Check out my LinkedIn profile @ [linkedin.com/saamirhye](https://www.linkedin.com/in/saamir-hye-233145181/)
 <!--
