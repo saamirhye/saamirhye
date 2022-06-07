@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Auxilis (a company that focuses on machine learning and systems development)
-- 🌱 I’m currently learning Angular and TypeScript (and also a DesignCourse to be the best at UI/UX design)
+- 🌱 I’m currently learning Angular and AWS Cloud Development (and also a DesignCourse to excel at UI/UX design and potentially pursue it as a career)
 - 👯 I’m open to collaborate on small to medium projects with anyone who is willing to spend some time outside of work
 <!--
 - 🤔 I’m looking for help with ...
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: My favourite hobbies are :fishing_pole_and_fish: and :musical_keyboard:
+- ⚡ Fun fact: My favourite hobbies are :fishing_pole_and_fish: and :musical_keyboard: (_HINT_: fishing and playing piano)
 
 ---
 
