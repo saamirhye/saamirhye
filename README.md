@@ -10,9 +10,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at Auxilis (a company that focuses on machine learning and systems development)
-- 🌱 I’m currently learning Angular and AWS Cloud Development (and also a DesignCourse to excel at UI/UX design and potentially pursue it as a career)
-- 👯 I’m open to collaborate on small to medium projects with anyone who is willing to spend some time outside of work
+- 🔭 I’m currently working at Auxilis (a company that focuses on machine learning) as a Software Developer and Team Lead
+- 🌱 I’m currently pursuing an AWS Cloud Practitioner Certificate (and also a DesignCourse to excel at UI/UX design and potentially pursue it as a career)
+- 👯 I’m open to collaborate on projects with anyone who is willing to spend some time outside of work
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
