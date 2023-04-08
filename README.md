@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 <!--   - You can reach me through the website provided on the left hand side of this intro or you can dm me through my LinkedIn (if you're on mobile you can use the links below) -->
 <!--     - Visit my portfolio @ [saamirhye.com](https://www.saamirhye.com) and shoot me an email through the contact page -->
-    - Check out my LinkedIn profile @ [linkedin.com/saamirhye](https://www.linkedin.com/in/saamir-hye-233145181/)
+- Check out my LinkedIn profile @ [linkedin.com/saamirhye](https://www.linkedin.com/in/saamir-hye-233145181/)
 <!--
 - 😄 Pronouns: ...
 -->
