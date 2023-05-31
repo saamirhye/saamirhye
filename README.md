@@ -5,28 +5,42 @@
 
 Hey there! 👋 I'm a skilled software engineer with a passion for problem-solving. I've got a holistic understanding of software development and design, and I love creating efficient and scalable solutions. Collaborating with others is my jam, and I thrive in team environments, bringing my strong analytical and communication skills to deliver top-notch software. I'm always learning and staying up to date with the latest technologies because I'm all about finding innovative solutions to real-world challenges. Let's build something awesome together! 😄
 
-<!--
-**saamirhye/saamirhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td rowspan="5" width="150px">
+      <img src="https://drive.google.com/uc?export=download&id=1jlfXoEZPW9lr3MHYM10mmeA5i4-06Drc" alt="Profile Image" width="100%" height="auto">
+    </td>
+    <td>
+      🔭 Currently working as a Software Engineer and Team Lead at Auxilis, specializing in machine learning
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🌱 Pursuing an AWS Cloud Practitioner Certificate and expanding skills in UI/UX design through a DesignCourse
+    </td>
+  </tr>
+  <tr>
+    <td>
+      👯 Open to collaborating on projects and investing time outside of work
+    </td>
+  </tr>
+  <tr>
+    <td>
+      📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/saamir-hye-233145181/">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ⚡ Fun fact: I enjoy fishing 🎣 and playing the piano 🎹 in my free time
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
--->
-
-- 🔭 Currently working as a Software Engineer and Team Lead at Auxilis, specializing in machine learning
+<!-- - 🔭 Currently working as a Software Engineer and Team Lead at Auxilis, specializing in machine learning
 - 🌱 Pursuing an AWS Cloud Practitioner Certificate and expanding skills in UI/UX design through a DesignCourse
 - 👯 Open to collaborating on projects and investing time outside of work
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/saamir-hye-233145181/)
-- ⚡ Fun fact: I enjoy fishing :fishing_pole_and_fish: and playing the piano :musical_keyboard: in my free time
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-<!--   - You can reach me through the website provided on the left hand side of this intro or you can dm me through my LinkedIn (if you're on mobile you can use the links below) -->
-<!--     - Visit my portfolio @ [saamirhye.com](https://www.saamirhye.com) and shoot me an email through the contact page -->
-<!--
-- 😄 Pronouns: ...
--->
-
----
+- ⚡ Fun fact: I enjoy fishing :fishing_pole_and_fish: and playing the piano :musical_keyboard: in my free time -->
 
 #### Languages and Tools
 
