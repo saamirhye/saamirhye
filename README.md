@@ -86,9 +86,9 @@ Hey there! 👋 I'm a skilled software engineer with a passion for problem-solvi
   <summary>:part_alternation_mark: View my stats</summary>
   <br />
   
-[![Saamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saamirhye&count_private=true&show_icons=true&theme=monokai&include_al_commits=true)](https://github.com/saamirhye/github-readme-stats)
+<!-- [![Saamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saamirhye&count_private=true&show_icons=true&theme=monokai&include_al_commits=true)](https://github.com/saamirhye/github-readme-stats)
 
-<br />
+<br /> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saamirhye&theme=monokai&layout=compact)](https://github.com/saamirhye/github-readme-stats)
 
