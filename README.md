@@ -1,8 +1,9 @@
-## Hey there 👋, Kōdosamurai at your service :computer:
+## 🎌 Kōdosamurai reporting for duty!
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=saamirhye.saamirhye)
 [![Github](https://img.shields.io/github/followers/saamirhye?label=Follow&style=social)](https://github.com/saamirhye)
 
+Hey there! 👋 I'm a skilled software engineer with a passion for problem-solving. I've got a holistic understanding of software development and design, and I love creating efficient and scalable solutions. Collaborating with others is my jam, and I thrive in team environments, bringing my strong analytical and communication skills to deliver top-notch software. I'm always learning and staying up to date with the latest technologies because I'm all about finding innovative solutions to real-world challenges. Let's build something awesome together! 😄
 
 <!--
 **saamirhye/saamirhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,21 +11,20 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at Auxilis (a company that focuses on machine learning) as a Software Developer and Team Lead
-- 🌱 I’m currently pursuing an AWS Cloud Practitioner Certificate (and also a DesignCourse to excel at UI/UX design and potentially pursue it as a career)
-- 👯 I’m open to collaborate on projects with anyone who is willing to spend some time outside of work
+- 🔭 Currently working as a Software Engineer and Team Lead at Auxilis, specializing in machine learning
+- 🌱 Pursuing an AWS Cloud Practitioner Certificate and expanding skills in UI/UX design through a DesignCourse
+- 👯 Open to collaborating on projects and investing time outside of work
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/saamir-hye-233145181/)
+- ⚡ Fun fact: I enjoy fishing :fishing_pole_and_fish: and playing the piano :musical_keyboard: in my free time
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me:
 <!--   - You can reach me through the website provided on the left hand side of this intro or you can dm me through my LinkedIn (if you're on mobile you can use the links below) -->
 <!--     - Visit my portfolio @ [saamirhye.com](https://www.saamirhye.com) and shoot me an email through the contact page -->
-- Check out my LinkedIn profile @ [linkedin.com/saamirhye](https://www.linkedin.com/in/saamir-hye-233145181/)
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: My favourite hobbies are :fishing_pole_and_fish: and :musical_keyboard: (_HINT_: fishing and playing piano)
 
 ---
 
