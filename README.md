@@ -1,13 +1,13 @@
 ## Sammy reporting for duty!
 
-![](https://visitor-badge.laobi.icu/badge?page_id=saamirhye.saamirhye)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=saamirhye.saamirhye) -->
 [![Github](https://img.shields.io/github/followers/saamirhye?label=Follow&style=social)](https://github.com/saamirhye)
 
 Hey there! 👋
 
-I'm a skilled software engineer that loves creating efficient and scalable solutions. Collaborating with others is my jam, and I thrive in team environments, bringing my strong analytical and communication skills to deliver top-notch software. I'm always learning and staying up to date with the latest technologies because I'm all about finding innovative solutions to real-world challenges. Let's build something awesome together! 😄
+I'm a software engineer that loves creating efficient and scalable solutions. Collaborating with others is my jam, and I thrive in team environments, bringing my strong analytical and communication skills to deliver top-notch software. I'm always learning and staying up to date with the latest technologies because I'm all about finding innovative solutions to real-world challenges. Let's build something awesome together! 😄
 
-<table>
+<!-- <table>
   <tr>
     <td rowspan="5" width="150px">
       <img src="https://drive.google.com/uc?export=download&id=1jlfXoEZPW9lr3MHYM10mmeA5i4-06Drc" alt="Profile Image" width="100%" height="auto">
@@ -16,11 +16,6 @@ I'm a skilled software engineer that loves creating efficient and scalable solut
       🔭 A Software Engineer specializing in full stack web development using React and Angular
     </td>
   </tr>
-<!--   <tr>
-    <td>
-      🌱 Pursuing an AWS Cloud Practitioner Certificate and expanding skills in UI/UX design through a DesignCourse
-    </td>
-  </tr> -->
   <tr>
     <td>
       👯 Open to collaborating on projects and investing time outside of work
@@ -36,7 +31,7 @@ I'm a skilled software engineer that loves creating efficient and scalable solut
       ⚡ Fun fact: I enjoy fishing 🎣 and playing the piano 🎹 in my free time
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- - 🔭 Currently working as a Software Engineer and Team Lead at Auxilis, specializing in machine learning
 - 🌱 Pursuing an AWS Cloud Practitioner Certificate and expanding skills in UI/UX design through a DesignCourse
@@ -58,7 +53,7 @@ I'm a skilled software engineer that loves creating efficient and scalable solut
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg" />
+<!-- <img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg" /> -->
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
@@ -68,9 +63,9 @@ I'm a skilled software engineer that loves creating efficient and scalable solut
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<!-- <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<!-- <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
 
 <br />
 
