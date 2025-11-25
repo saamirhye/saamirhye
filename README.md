@@ -1,11 +1,7 @@
-## Sammy reporting for duty!
+<!-- ## Sammy reporting for duty! -->
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=saamirhye.saamirhye) -->
-[![Github](https://img.shields.io/github/followers/saamirhye?label=Follow&style=social)](https://github.com/saamirhye)
-
-Hey there! 👋
-
-I'm a software engineer that loves creating efficient and scalable solutions. Collaborating with others is my jam, and I thrive in team environments, bringing my strong analytical and communication skills to deliver top-notch software. I'm always learning and staying up to date with the latest technologies because I'm all about finding innovative solutions to real-world challenges. Let's build something awesome together! 😄
+<!-- [![Github](https://img.shields.io/github/followers/saamirhye?label=Follow&style=social)](https://github.com/saamirhye) -->
 
 <!-- <table>
   <tr>
@@ -53,7 +49,7 @@ I'm a software engineer that loves creating efficient and scalable solutions. Co
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<!-- <img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg" /> -->
+<img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg" />
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
@@ -65,22 +61,22 @@ I'm a software engineer that loves creating efficient and scalable solutions. Co
 
 <!-- <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
 
-<!-- <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<br />
+<!-- <br /> -->
 
----
+<!-- --- -->
 
-#### GitHub Stats
+<!-- #### GitHub Stats -->
 
-<details>
+<!-- <details>
   <summary>:part_alternation_mark: View my stats</summary>
   <br />
   
-<!-- [![Saamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saamirhye&count_private=true&show_icons=true&theme=monokai&include_al_commits=true)](https://github.com/saamirhye/github-readme-stats)
+[![Saamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saamirhye&count_private=true&show_icons=true&theme=monokai&include_al_commits=true)](https://github.com/saamirhye/github-readme-stats)
 
-<br /> -->
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saamirhye&theme=monokai&layout=compact)](https://github.com/saamirhye/github-readme-stats)
 
-</details>
+</details> -->
